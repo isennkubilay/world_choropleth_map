@@ -1,4 +1,4 @@
-# world_choropleth_map
+# World Choropleth Map
 
 <p align="center">
   <img src="newplot.png" width="600" />
